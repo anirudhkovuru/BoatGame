@@ -1,12 +1,12 @@
-Graphics Assignment 2
-=====================
+OpenGL Boat Game
+================
 
 Setup:
-To compile the game and obtain the executable
-Run make
-Then run the compiled executable to start the game.
+
+Run the executable "graphics_asgn1" to start the game.
 
 Controls:
+
 The boat can move forward and backward using the up and down arrow keys respectively.
 
 The boat can rotate using the left and right arrow keys.
@@ -26,6 +26,7 @@ In Helicopter-cam View, the mouse can be used to look around and the scroll can 
 
 
 Game:
+
 The player must control the boat and shoot fireballs to kill the two purple enemies.
 
 The player's health is depicted on the title bar of the screen. If the player health is 0 then he is respawned 
