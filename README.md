@@ -3,6 +3,10 @@ OpenGL Boat Game
 
 Setup:
 
+Install openGL if not installed.
+
+Download the repository.
+
 Run the executable "graphics_asgn1" to start the game.
 
 Controls:
